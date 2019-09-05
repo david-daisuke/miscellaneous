@@ -1,0 +1,17 @@
+﻿id,Firstname ,Lastname,age ,prefecture
+1,kitagawa,masashi,32,tokyo
+2,david,utagawa,23,kanagawa
+3,nanami,konishi,32,fukuoka
+4,hiroshi,takizawa,345,hiroshima
+5,hoge1,nanashi1,34,tokushima
+6,hoge2,nanashi2,343,toyama
+7,hoge3,nanashi3,34,akita
+8,hoge4,nanashi4,5,aomori
+9,hoge5,nanashi5,3,shimane
+10,hoge6,nanashi6,45,mie
+11,hoge7,nanashi7,345,kyoto
+12,hoge8,nanashi8,4,osaka
+13,hoge9,nanashi9,6,nara
+14,hoge10,nanashi10,4567,kagoshima
+15,hoge11,nanashi11,6,okinawa
+16,hoge12,nanashi12,7,tottori
